@@ -12,6 +12,10 @@ You need to be logged into your azure devops web site to see this after pressing
 
 ![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/9808e564-e55c-434e-bd04-13e21256c732)
 
+Click the blue "install" button -- ensure you have the correct permission level.  Since this is a personal azure devops account, I have all the owner permission.
+
+![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/9e112057-9b7c-4f16-a314-97c5ca705499)
+
 
 
 Using agent pool of a self-hosted centos machine to build on every trigger.
