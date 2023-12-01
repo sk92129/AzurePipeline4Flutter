@@ -22,6 +22,13 @@ https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarqube
 
 ![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/ad57835f-e392-499b-a347-23de85db3cc0)
 
+Click on Get It Free
+
+It will download and install in the devops on the server and show this.
+
+![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/08c4f2be-ddc2-475f-8010-7cda0bbf4d2c)
+
+
 
 Using agent pool of a self-hosted centos machine to build on every trigger.
 ![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/0c257870-ba1c-4d8f-9d0d-f87f45d6dfef)
