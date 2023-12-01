@@ -16,6 +16,11 @@ Click the blue "install" button -- ensure you have the correct permission level.
 
 ![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/9e112057-9b7c-4f16-a314-97c5ca705499)
 
+Install this on the azure pipeline for SonarQube code scanning.
+
+https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarqube
+
+![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/ad57835f-e392-499b-a347-23de85db3cc0)
 
 
 Using agent pool of a self-hosted centos machine to build on every trigger.
