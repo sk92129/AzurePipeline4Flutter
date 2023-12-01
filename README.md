@@ -29,6 +29,10 @@ It will download and install in the devops on the server and show this.
 ![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/08c4f2be-ddc2-475f-8010-7cda0bbf4d2c)
 
 
+When the sonar scan is done, a report is generated and can be viewed on the server where the sonar qube service is running from.
+![Screenshot 2023-12-01 at 12-43-30 Kangster - Overview - SonarQube](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/b0583a18-7e00-4602-ac01-0672eb08807e)
+
+
 
 Using agent pool of a self-hosted centos machine to build on every trigger.
 ![image](https://github.com/sk92129/AzurePipeline4Flutter/assets/1682772/0c257870-ba1c-4d8f-9d0d-f87f45d6dfef)
